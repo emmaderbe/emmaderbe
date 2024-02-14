@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Emma, IOS developer from 🇷🇺 Krasnodar, Russia. Now living in 🇷🇸 Novi-Sad, Serbia<br><br>- ⚡ I’m working on PetApp project, special app for the dog owners<br>- 📚 I'm currently learning Swift<br>- 🖖🏻 Open to work!</p>
+<p align="left">I'm Emma, IOS developer from 🇷🇺 Krasnodar, Russia.<br><br>- ⚡ I’m working on PetApp project, special app for the dog owners<br>- 📚 I'm currently learning Swift<br>- 🖖🏻 Open to work!</p>
 
 ###
 
